@@ -56,3 +56,4 @@ Ingest and analyze HTTP logs using Splunk • Detect client-side (4xx) and serve
 # Outcome
 •	Built SOC-style dashboards for network visibility
 •	Improved understanding of log correlation and threat hunting
+•	Hands-on experience with SIEM-based monitoring
